@@ -1,2 +1,2 @@
 # -100-
-对 ImageProcessing100Wen项目自己的题解
+对 ImageProcessing100Wen项目自己的题解（个人学习笔记），不定期更新......
